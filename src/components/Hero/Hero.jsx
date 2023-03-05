@@ -20,8 +20,7 @@ const Hero = () => {
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
             I am a Full_Stack developer
-            <br />
-            and I do love front-end field{" "}
+          
           </motion.span>
         </div>
 
